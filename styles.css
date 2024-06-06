@@ -17,4 +17,34 @@
     border-radius: 25px;
 
     margin: 2%;
+
+    color: rgb(238, 238, 238);
+}
+
+#index-navbar {
+    
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #dddddd;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar a {
+    display: block;
+    padding: 14px 16px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #111;
 }
