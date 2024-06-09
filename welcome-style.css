@@ -18,4 +18,12 @@
     color: white;
 
     border-radius: 25px;
+
+    left: 42%;
+    top: 35%;
+    position: absolute;
+}
+
+#welcome-link:hover {
+    background-color: rgb(110, 105, 105);
 }
